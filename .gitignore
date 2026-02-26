@@ -1,3 +1,4 @@
 *.csv
 *.xlsx
 !**/ce_bloques.csv
+!**/correo_docentes.csv
